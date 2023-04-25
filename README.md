@@ -1,6 +1,6 @@
 # Attempt for the throwing stone mechanic
 
-The whole project is in the "Shooting mechanic trial" folder. The attempt only builds a simple scene without our own sprites for testing.
+The attempt only builds a simple scene without our own sprites for testing.
 
 Gameobject Rock has the component of Rigidbody 2D so that it can be picked up and thrown away. It has a Rock Instruction component with the script realizing the function that when the player walks nearby the rock, there will be a pop-up instruction saying "Press E to pick up the rock".
 
