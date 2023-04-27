@@ -1,6 +1,6 @@
 # Attempt for the throwing stone & water stream
 
-Now the attempt can simulate the player taken by the water stream to somewhere. This is in done the Water Stream scene.
+Now the attempt can simulate the player taken by the water stream to somewhere. This is in done the Water Stream scene. The stream is simulated by Area Effector 2D component.
 
 The attempt only builds a simple scene without our own sprites for testing.
 
